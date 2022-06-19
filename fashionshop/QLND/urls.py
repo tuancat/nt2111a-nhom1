@@ -3,5 +3,5 @@ from . import views
 
 #URLConf
 urlpatterns = [
-    path("TestQLND/", views.TestQLND)
+    path("", views.TestQLND)
 ]
