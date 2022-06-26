@@ -2,3 +2,4 @@ fashionshop/fashionshop/__pycache__/wsgi.cpython-310.pyc
 fashionshop/fashionshop/__pycache__/__init__.cpython-310.pyc
 fashionshop/fashionshop/__pycache__/settings.cpython-310.pyc
 fashionshop/fashionshop/__pycache__/urls.cpython-310.pyc
+/fashionshop/shop/migrations/__pycache__/*.pyc
